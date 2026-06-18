@@ -51,9 +51,12 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle6 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
 #container_6a2de037 { vertical-align: top; position:relative; display: inline-block; width:75%; max-width:1100px; background:none;  }
 #container_6a2de037_padding { margin: 1px; display: block;  }
-#container_32d1e1ae { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:73px; max-width:1100px; background:none;  }
+#container_32d1e1ae { vertical-align: top; position:relative; display: inline-block; width:100%; max-width:1100px; background:none;  }
 #container_32d1e1ae_padding { margin: 10px; display: block;  }
 #anchor_601ef2ee { vertical-align: bottom; position:relative; display: inline-block;  }
+#container_4fa18e1 { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
+#container_4fa18e1_padding { margin: 10px; display: block;  }
+#html_19c09732 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:50%; height:17px; background-color:#FFFFFF; border: 1px solid #FFFFFF;  }
 #container_40b9db3d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:42px; background:none;  }
 #container_40b9db3d_padding { margin: 5px 5px 5px 0px; display: block;  }
 #heading_66c2c984 { vertical-align: bottom; position:relative; display: inline-block; width:577px; background:none; font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#B30000; text-align:left;  }
