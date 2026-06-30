@@ -1,5 +1,5 @@
 User-agent: *
-Allow: /files/academic_cv_of_subir_majumder.pdf
+Allow: /files/academic_CV_of_subir_majumder.pdf
 Disallow: /files/*.pdf$
 Disallow: /files/*.PDF$
 Disallow: /files/*.ppt$
