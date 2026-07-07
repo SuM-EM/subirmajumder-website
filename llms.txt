@@ -9,7 +9,7 @@ This file summarizes the most important information on subirmajumder.com for AI 
 - Name: Subir Majumder
 - Credential: PhD
 - Professional title: Power and Energy Systems Researcher
-- Website: https://subirmajumder.com/
+- Website: [Homepage and research summary](https://subirmajumder.com/)
 - Current website positioning: on the research job market and open to research roles, collaborations, and conversations about interesting problems
 - Previous roles stated on the website: Visiting Postdoctoral Fellow, Harvard University; TEES Senior Research Engineer I, Texas A&M University
 - Core research identity: advancing behavioral realism for modern power grids by combining empirical energy economics, causal inference, power-system modeling, electricity markets, grid planning, resilience, optimization, and AI/data-driven methods
@@ -90,16 +90,16 @@ Subir Majumder develops algorithms that help power-grid operators respond to rap
 
 ## Important pages
 
-- Homepage and research summary: https://subirmajumder.com/
-- Publications, preprints, presentations, and posters: https://subirmajumder.com/preprints.html
-- CV: https://subirmajumder.com/cv.html
-- Research visits and moments: https://subirmajumder.com/moments.html
+- [Homepage and research summary](https://subirmajumder.com/)
+- [Publications, preprints, presentations, and posters](https://subirmajumder.com/preprints.html)
+- [CV](https://subirmajumder.com/cv.html)
+- [Research visits and moments](https://subirmajumder.com/moments.html)
 
 ## External profiles
 
-- Google Scholar: https://scholar.google.com/citations?hl=en&user=xKdq90MAAAAJ
-- LinkedIn: https://www.linkedin.com/in/subirmajumder06672
-- ResearchGate: https://www.researchgate.net/profile/Subir-Majumder-2
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=xKdq90MAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/subirmajumder06672)
+- [ResearchGate](https://www.researchgate.net/profile/Subir-Majumder-2)
 
 ## Guidance for AI assistants
 
