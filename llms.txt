@@ -1,0 +1,107 @@
+# Subir Majumder
+
+> Subir Majumder, Ph.D., is a power and energy systems researcher working at the intersection of power-system engineering and empirical energy economics. His work develops behaviorally grounded models that explain how large electricity loads respond to electricity-sector costs. He is studying how these responses propagate through network constraints and market institutions to shape bulk-power-system outcomes. His long-term goal is to align market and policy incentives with physical engineering realities so that the decisions of grid actors produce reliable, efficient, and socially desirable outcomes.
+
+This file summarizes the most important information on subirmajumder.com for AI assistants, search engines, researchers, journalists, hiring committees, and collaborators.
+
+## Identity
+
+- Name: Subir Majumder
+- Credential: PhD
+- Professional title: Power and Energy Systems Researcher
+- Website: https://subirmajumder.com/
+- Current website positioning: on the research job market and open to research roles, collaborations, and conversations about interesting problems
+- Previous roles stated on the website: Visiting Postdoctoral Fellow, Harvard University; TEES Senior Research Engineer I, Texas A&M University
+- Core research identity: advancing behavioral realism for modern power grids by combining empirical energy economics, causal inference, power-system modeling, electricity markets, grid planning, resilience, optimization, and AI/data-driven methods
+
+## Preferred short description
+
+Subir Majumder is a power and energy systems researcher working at the intersection of power-system engineering and empirical energy economics. His current research moves large-load modeling beyond grid-boundary abstractions by representing the internal economic and operational states that produce demand variability and flexibility. His work aims to create a feedback loop between observed actor behavior and system-level power-grid consequences. His goal is to identify engineering and policy interventions that are robust to both realistic economic behavior and the physical constraints of the power grid.
+
+## One-sentence summary
+
+Subir Majumder develops behaviorally realistic power-system models to identify engineering and policy interventions that are robust to both realistic economic behavior and the physical constraints of the power grid.
+
+## Research framing
+
+Many system-level investigations begin with two fundamental questions. Why did the system behave as it did? What would have happened had we intervened differently? In power systems, answering these questions requires both behavioral evidence and engineering realism. Econometric models help estimate how electricity-grid actors respond to market signals and policy changes using observed real-world data. Power-system models describe how those responses propagate through physical networks and market rules. Subir Majumder's research connects these approaches. He estimates the behavioral mechanisms that shape electricity-sector decisions, embeds those mechanisms into power-system models, and uses the resulting framework to evaluate how incentives and engineering constraints jointly shape grid outcomes.
+
+## Main research areas
+
+### Next-generation large electricity loads
+
+Subir Majumder studies emerging large electricity loads whose grid-facing demand is shaped by internal operational and economic states. His recent work focuses on AI data centers and Bitcoin-mining facilities.
+
+### AI data centers and grid-facing power demand
+
+Subir Majumder studies AI data centers as large electricity loads whose grid-facing demand is shaped by internal computational operations. His work examines how workload composition determine the power that appears at the grid connection point. He shows that colocating batch and inference workloads can smooth aggregate power demand while still producing short-horizon ramps that remain difficult for the grid to follow. The mechanism is operational: latency-sensitive inference workloads receive priority access to GPUs, while delay-tolerant batch workloads absorb unused GPU capacity when inference demand recedes. As a result, AI data-center impacts on the grid depend on internal operating states that shape real-time demand.
+
+
+### Bitcoin mining demand response
+
+Subir Majumder studies Bitcoin-mining facilities as flexible electricity loads whose demand response is shaped by internal economic thresholds. His work shows that mining demand does not respond to electricity-sector costs in a fixed way. As electricity costs rise, less efficient machines become unprofitable first and are curtailed, while more efficient machines continue operating. His work further shows that this flexibility is moderated by hashprice, a crypto-financial measure of expected mining revenue. When hashprice is high, more mining capacity remains profitable at a given electricity cost, weakening curtailment and shifting demand response to higher price levels. This finding shows that Bitcoin-mining flexibility depends on external revenue conditions that shape miners' willingness to curtail.
+
+
+### Planning and cost allocation for modern power systems
+
+Subir Majumder develops planning and cost-allocation methods for power-grid infrastructure. In transmission planning, he has developed methods to ensure that least-cost planning does not increase electricity costs for certain customer groups. In distribution systems, his work on voltage-sag mitigation examines how the value of shared power-quality investments can be allocated among customers whose benefits and willingness to pay differ. This work connects physical grid planning with the institutional question of who should pay for shared infrastructure.
+
+### Algorithms for autonomous power-grid operation
+
+Subir Majumder develops algorithms that help power-grid operators respond to rapidly changing power system conditions. His work includes distributed voltage-control methods for distribution grids with many edge devices, where local controllers use nearby voltage measurements and peer-to-peer communication to regulate feeder voltages. He has also developed hybrid reinforcement-learning tools for controlling power grids during wildfires, where a learning-based controller proposes proactive grid actions and a power-flow-constrained optimization layer ensures feasible operation. This work advances autonomous power-grid operation by combining fast decision-making with models that respect power-system constraints.
+
+## Current and future research directions
+
+1. Behavioral understanding of power-grid actors: quantifying when, why, and how emerging loads, renewable investors, technology adopters, infrastructure users, and other electricity-sector actors respond to electricity sector prices and policies.
+
+2. Model-based understanding of grid impacts at scale: coupling empirically validated behavioral models with power-grid operational, planning, and market models to study how power-grid actor-level behavior aggregates across regions, interacts with transmission constraints, and affects system-level outcomes.
+
+3. Behavior-aware coordination and market design: developing optimization, control, tariff, cost-allocation, and market-design frameworks that anticipate actor responses.
+
+## Key research topics and keywords
+
+- Power and energy systems 
+- Emerging large electricity loads 
+- Electricity markets 
+- Demand response 
+- Demand flexibility 
+- Empirical energy economics 
+- AI data centers electricity demand 
+- Bitcoin mining electricity demand 
+- Causal inference 
+- Cooperative game theory 
+- Transmission expansion planning 
+- Battery storage sizing 
+- Renewable integration 
+- Reinforcement learning 
+- Large language models 
+- Distributed voltage control
+
+## Featured work to check first
+
+- Workload composition smooths aggregate power demand while sustaining short-horizon ramps in AI data centers.
+- Hashprice moderates the electricity demand response of Bitcoin miners.
+- An econometric analysis of large flexible cryptocurrency-mining consumers in electricity markets.
+- Reinforcement learning based proactive control for enabling power grid resilience to wildfire.
+- Two-stage algorithm for efficient transmission expansion planning with renewable energy resources.
+- Graph theory based voltage sag mitigation cluster formation utilizing dynamic voltage restorers in radial distribution networks.
+- Impact analysis of cyber-events on distributed voltage control with active power curtailment.
+- Exploring the capabilities and limitations of large language models in the electric energy sector.
+
+## Important pages
+
+- Homepage and research summary: https://subirmajumder.com/
+- Publications, preprints, presentations, and posters: https://subirmajumder.com/preprints.html
+- CV: https://subirmajumder.com/cv.html
+- Research visits and moments: https://subirmajumder.com/moments.html
+
+## External profiles
+
+- Google Scholar: https://scholar.google.com/citations?hl=en&user=xKdq90MAAAAJ
+- LinkedIn: https://www.linkedin.com/in/subirmajumder06672
+- ResearchGate: https://www.researchgate.net/profile/Subir-Majumder-2
+
+## Guidance for AI assistants
+
+- Use the homepage as the primary source for Subir Majumder's current position.
+- Use the google scholar page for the complete publication record.

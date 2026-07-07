@@ -1,4 +1,5 @@
-User-agent: *
+User-agent: Googlebot
+Disallow: /llms.txt
 Allow: /files/academic_cv_of_subir_majumder.pdf
 Disallow: /files/*.pdf$
 Disallow: /files/*.PDF$
@@ -8,3 +9,29 @@ Disallow: /files/*.pptx$
 Disallow: /files/*.PPTX$
 Disallow: /files/*.xlsx$
 Disallow: /files/*.XLSX$
+
+User-agent: Bingbot
+Disallow: /llms.txt
+Allow: /files/academic_cv_of_subir_majumder.pdf
+Disallow: /files/*.pdf$
+Disallow: /files/*.PDF$
+Disallow: /files/*.ppt$
+Disallow: /files/*.PPT$
+Disallow: /files/*.pptx$
+Disallow: /files/*.PPTX$
+Disallow: /files/*.xlsx$
+Disallow: /files/*.XLSX$
+
+User-agent: *
+Allow: /llms.txt
+Allow: /files/academic_cv_of_subir_majumder.pdf
+Disallow: /files/*.pdf$
+Disallow: /files/*.PDF$
+Disallow: /files/*.ppt$
+Disallow: /files/*.PPT$
+Disallow: /files/*.pptx$
+Disallow: /files/*.PPTX$
+Disallow: /files/*.xlsx$
+Disallow: /files/*.XLSX$
+
+Sitemap: https://subirmajumder.com/sitemap.xml
