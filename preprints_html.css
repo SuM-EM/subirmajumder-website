@@ -165,7 +165,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_9446d96 { vertical-align: top; position:relative; display: inline-block; width:50%; background:none;  }
 #container_9446d96_padding { margin: 5px; display: block;  }
 .textstyle12 { text-align:right; }
-#img_2e940174 { position:absolute; left:87%; top:11%; width:3%; background:none; height:auto; position: fixed !important;
+#img_2e940174 { position:absolute; left:87%; top:11%; height:3%; background:none; position: fixed !important;
 right: 25px !important;
 bottom: 90px !important;
 left: auto !important;

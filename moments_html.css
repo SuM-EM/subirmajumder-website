@@ -93,7 +93,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_4faa410a { vertical-align: top; position:relative; display: inline-block; width:50%; background:none;  }
 #container_4faa410a_padding { margin: 5px; display: block;  }
 .textstyle9 { text-align:right; }
-#img_37e2884d { position:absolute; left:89%; top:10%; width:3%; background:none; height:auto; position: fixed !important;
+#img_37e2884d { position:absolute; left:89%; top:10%; height:3%; background:none; position: fixed !important;
 right: 25px !important;
 bottom: 90px !important;
 left: auto !important;
