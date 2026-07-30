@@ -1,31 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?> 
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+			
+			
 <url>
-  <loc>https://subirmajumder.com/</loc>
-  <lastmod>2026-06-14T11:32:18+00:00</lastmod>
+  <loc>http://subirmajumder.com</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://subirmajumder.com/preprints.html</loc>
-  <lastmod>2026-06-14T11:32:18+00:00</lastmod>
+  <loc>http://subirmajumder.com/vision.html</loc>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://subirmajumder.com/cv.html</loc>
-  <lastmod>2026-06-14T11:32:18+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://subirmajumder.com/preprints.html</loc>
+   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://subirmajumder.com/moments.html</loc>
-  <lastmod>2026-06-14T11:32:18+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://subirmajumder.com/cv.html</loc>
+   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://subirmajumder.com/moments.html</loc>
+   <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://subirmajumder.com/files/academic_cv_of_subir_majumder.pdf</loc>
+   <priority>0.60</priority>
+</url>
+<url>
+  <loc>https://subirmajumder.com/files/subir_majumder.jpg</loc>
+   <priority>0.60</priority>
 </url>
 
 
