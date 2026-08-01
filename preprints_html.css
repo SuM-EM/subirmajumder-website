@@ -63,7 +63,7 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #heading_776767d { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:17pt; font-family:Arial, Helvetica, sans-serif; color:#B30000; text-align:left;  }
 #container_25b673f2 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:165px; max-width:1100px; background:none;  }
 #container_25b673f2_padding { margin: 10px; display: block;  }
-#img_675a4f0f { vertical-align: bottom; position:relative; display: inline-block; width:37%; max-width:300px; background:none; height:auto;  }
+#img_675a4f0f { vertical-align: bottom; position:relative; display: inline-block; height:100%; max-width:300px; background:none;  }
 #container_3c9e773b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:47px; background:none;  }
 #container_3c9e773b_padding { margin: 10px; display: block;  }
 #container_14e9464b { vertical-align: top; position:relative; display: inline-block; width:100%; background:none;  }
